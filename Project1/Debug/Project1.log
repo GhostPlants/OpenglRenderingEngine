@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\opengl\myopengl\project1\project1\shader.h(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\opengl\myopengl\project1\project1\camera.h(19): warning C4305: “初始化”: 从“double”到“float”截断
+d:\opengl\myopengl\project1\project1\main.cpp(406): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl\myopengl\project1\project1\main.cpp(407): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl\myopengl\project1\project1\main.cpp(411): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl\myopengl\project1\project1\main.cpp(412): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl\myopengl\project1\project1\main.cpp(414): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl\myopengl\project1\project1\main.cpp(415): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\opengl\MYopengl\Project1\Debug\Project1.exe
